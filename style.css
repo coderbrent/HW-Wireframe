@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+header {
+    position: relative;
+    background: #ebebeb;
+    width: auto;
+    height: auto;
+    padding: 2px;
+}
+
+nav {
+    background: #ebebeb;
+    width: auto;
+    height: auto;
+}
+
+article {
+    position: relative;
+    color: #ebebeb;
+    background: #777;
+}
+
+h1, p {
+    color: #777;
+    background: #ebebeb;
+}
+
+section {
+    position: relative;
+    width: 495px;
+}
+
+.ol-nav {
+    font-family: arial;
+    font-size: 15px;
+    font-style: lowercase;
+    display: inline-block;
+    padding-left: auto;
+    margin-left: 5px;
+}
+
+.ol-nav:hover {
+    color: lightskyblue;
+}
